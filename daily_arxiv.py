@@ -354,6 +354,7 @@ def demo(**config):
     data_collector_web= []
     
     keywords = config['kv']
+    print(keywords)
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']

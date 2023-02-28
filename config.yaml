@@ -5,8 +5,8 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
-
+max_results: 25
+ 
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
@@ -23,17 +23,10 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+        filters: ["SLAM", "Visual Odometry", "Visual-Inerial SLAM", "VIO"]
+    "Dynamic SLAM":
+        filters: ["Dynamic SLAM", "SLAMMOT", "Moving Object SLAM"]
+    "3D Multi-Object Tracking":
+        filters: ["3D MOT", "3D Multi-Object Tracking"]
+    "Object-Level SLAM and Semantic SLAM":
+        filters: ["Object-Based SLAM", "Object-Level SLAM", "Semantic SLAM"]
