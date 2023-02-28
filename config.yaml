@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "mitchellcohen3"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -30,3 +30,5 @@ keywords:
         filters: ["3D MOT", "3D Multi-Object Tracking"]
     "Object-Level SLAM and Semantic SLAM":
         filters: ["Object-Based SLAM", "Object-Level SLAM", "Semantic SLAM"]
+    "Image-Based 3D Object Detection":
+        filters: ["Pseudo-Lidar", "Monocular 3D Object Detection", "Image-Based Object Detection"]

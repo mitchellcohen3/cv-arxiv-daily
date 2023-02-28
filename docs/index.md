@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.27
+## Updated on 2023.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -124,6 +124,36 @@ layout: default
 |**2020-07-06**|**Distributed Consistent Multi-Robot Semantic Localization and Mapping**|Vladimir Tchuiev et.al.|[2007.02611v1](http://arxiv.org/abs/2007.02611v1)|null|
 |**2020-07-29**|**EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association**|Yanmin Wu et.al.|[2004.12730v2](http://arxiv.org/abs/2004.12730v2)|**[link](https://github.com/yanmin-wu/EAO-SLAM)**|
 |**2020-05-04**|**Technical Report: Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback**|Vasileios Vasilopoulos et.al.|[2002.12349v3](http://arxiv.org/abs/2002.12349v3)|null|
+
+## Image-Based 3D Object Detection
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts**|Zizhang Wu et.al.|[2302.10549v1](http://arxiv.org/abs/2302.10549v1)|null|
+|**2023-01-04**|**MonoEdge: Monocular 3D Object Detection Using Local Perspectives**|Minghan Zhu et.al.|[2301.01802v1](http://arxiv.org/abs/2301.01802v1)|null|
+|**2022-12-22**|**Monocular 3D Object Detection using Multi-Stage Approaches with Attention and Slicing aided hyper inference**|Abonia Sojasingarayar et.al.|[2212.11804v1](http://arxiv.org/abs/2212.11804v1)|null|
+|**2022-12-20**|**OBMO: One Bounding Box Multiple Objects for Monocular 3D Object Detection**|Chenxi Huang et.al.|[2212.10049v1](http://arxiv.org/abs/2212.10049v1)|**[link](https://github.com/mrsempress/obmo)**|
+|**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
+|**2023-02-13**|**IDMS: Instance Depth for Multi-scale Monocular 3D Object Detection**|Chao Hu et.al.|[2212.01528v2](http://arxiv.org/abs/2212.01528v2)|null|
+|**2022-11-30**|**Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wu et.al.|[2211.16779v1](http://arxiv.org/abs/2211.16779v1)|null|
+|**2022-11-14**|**Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**|Yu Hong et.al.|[2211.07171v1](http://arxiv.org/abs/2211.07171v1)|**[link](https://github.com/Cc-Hy/CMKD)**|
+|**2022-11-03**|**Ground Plane Matters: Picking Up Ground Plane Prior in Monocular 3D Object Detection**|Fan Yang et.al.|[2211.01556v1](http://arxiv.org/abs/2211.01556v1)|null|
+|**2022-11-02**|**OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**|Yongzhi Su et.al.|[2211.01142v1](http://arxiv.org/abs/2211.01142v1)|null|
+|**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574v1](http://arxiv.org/abs/2210.16574v1)|null|
+|**2022-10-18**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v2](http://arxiv.org/abs/2210.09267v2)|null|
+|**2022-08-22**|**A Simple Baseline for Multi-Camera 3D Object Detection**|Yunpeng Zhang et.al.|[2208.10035v1](http://arxiv.org/abs/2208.10035v1)|**[link](https://github.com/zhangyp15/simmod)**|
+|**2022-12-05**|**MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection**|Han Sun et.al.|[2208.09446v2](http://arxiv.org/abs/2208.09446v2)|**[link](https://github.com/sunh18/monosim)**|
+|**2022-08-08**|**Aerial Monocular 3D Object Detection**|Yue Hu et.al.|[2208.03974v1](http://arxiv.org/abs/2208.03974v1)|null|
+|**2022-07-26**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wang et.al.|[2207.12988v1](http://arxiv.org/abs/2207.12988v1)|**[link](https://github.com/tai-wang/depth-from-motion)**|
+|**2022-07-21**|**DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection**|Abhinav Kumar et.al.|[2207.10758v1](http://arxiv.org/abs/2207.10758v1)|**[link](https://github.com/abhi1kumar/deviant)**|
+|**2022-09-27**|**Densely Constrained Depth Estimator for Monocular 3D Object Detection**|Yingyan Li et.al.|[2207.10047v3](http://arxiv.org/abs/2207.10047v3)|**[link](https://github.com/bravegroup/dcd)**|
+|**2022-07-22**|**DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection**|Liang Peng et.al.|[2207.08531v2](http://arxiv.org/abs/2207.08531v2)|**[link](https://github.com/spengliang/did-m3d)**|
+|**2022-11-27**|**Consistency of Implicit and Explicit Features Matters for Monocular 3D Object Detection**|Qian Ye et.al.|[2207.07933v2](http://arxiv.org/abs/2207.07933v2)|null|
+|**2022-07-10**|**Mix-Teaching: A Simple, Unified and Effective Semi-Supervised Learning Framework for Monocular 3D Object Detection**|Lei Yang et.al.|[2207.04448v1](http://arxiv.org/abs/2207.04448v1)|**[link](https://github.com/yanglei18/mix-teaching)**|
+|**2022-06-25**|**Self-Supervised 3D Monocular Object Detection by Recycling Bounding Boxes**|Sugirtha T et.al.|[2206.12738v1](http://arxiv.org/abs/2206.12738v1)|null|
+|**2022-06-15**|**MonoGround: Detecting Monocular 3D Objects from the Ground**|Zequn Qin et.al.|[2206.07372v1](http://arxiv.org/abs/2206.07372v1)|**[link](https://github.com/cfzd/monoground)**|
+|**2022-06-15**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li et.al.|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
+|**2022-05-30**|**Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving**|Peixuan Li et.al.|[2205.14882v1](http://arxiv.org/abs/2205.14882v1)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
