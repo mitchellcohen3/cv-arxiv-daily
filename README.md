@@ -159,7 +159,7 @@
 |**2022-08-22**|**A Simple Baseline for Multi-Camera 3D Object Detection**|Yunpeng Zhang et.al.|[2208.10035v1](http://arxiv.org/abs/2208.10035v1)|**[link](https://github.com/zhangyp15/simmod)**|
 |**2022-12-05**|**MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection**|Han Sun et.al.|[2208.09446v2](http://arxiv.org/abs/2208.09446v2)|**[link](https://github.com/sunh18/monosim)**|
 |**2022-08-08**|**Aerial Monocular 3D Object Detection**|Yue Hu et.al.|[2208.03974v1](http://arxiv.org/abs/2208.03974v1)|null|
-|**2022-07-26**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wang et.al.|[2207.12988v1](http://arxiv.org/abs/2207.12988v1)|**[link](https://github.com/tai-wang/depth-from-motion)**|
+|**2023-03-01**|**Monocular 3D Object Detection with Depth from Motion**|Tai Wang et.al.|[2207.12988v2](http://arxiv.org/abs/2207.12988v2)|**[link](https://github.com/tai-wang/depth-from-motion)**|
 |**2022-07-21**|**DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection**|Abhinav Kumar et.al.|[2207.10758v1](http://arxiv.org/abs/2207.10758v1)|**[link](https://github.com/abhi1kumar/deviant)**|
 |**2022-09-27**|**Densely Constrained Depth Estimator for Monocular 3D Object Detection**|Yingyan Li et.al.|[2207.10047v3](http://arxiv.org/abs/2207.10047v3)|**[link](https://github.com/bravegroup/dcd)**|
 |**2022-07-22**|**DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection**|Liang Peng et.al.|[2207.08531v2](http://arxiv.org/abs/2207.08531v2)|**[link](https://github.com/spengliang/did-m3d)**|
