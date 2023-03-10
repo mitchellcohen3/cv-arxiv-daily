@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**Virtual Inverse Perspective Mapping for Simultaneous Pose and Motion Estimation**|Masahiro Hirano et.al.|[2303.05192v1](http://arxiv.org/abs/2303.05192v1)|null|
+|**2023-03-09**|**Stereo Event-based Visual-Inertial Odometry**|Kunfeng Wang et.al.|[2303.05086v1](http://arxiv.org/abs/2303.05086v1)|null|
 |**2023-03-07**|**Long Distance GNSS-Denied Visual Inertial Navigation for Autonomous Fixed Wing Unmanned Air Vehicles: SO(3) Manifold Filter based on Virtual Vision Sensor**|Eduardo Gallo et.al.|[2303.03804v1](http://arxiv.org/abs/2303.03804v1)|null|
 |**2023-03-03**|**Lightweight, Uncertainty-Aware Conformalized Visual Odometry**|Alex C. Stutts et.al.|[2303.02207v1](http://arxiv.org/abs/2303.02207v1)|null|
 |**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
@@ -71,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
 |**2022-12-21**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v1](http://arxiv.org/abs/2212.11417v1)|null|
 |**2023-02-07**|**ShaSTA: Modeling Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2211.03919v2](http://arxiv.org/abs/2211.03919v2)|null|
 |**2022-09-12**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v3](http://arxiv.org/abs/2209.02540v3)|null|
