@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
 |**2023-03-15**|**UMS-VINS: United Monocular-Stereo Features for Visual-Inertial Tightly Coupled Odometry**|Chaoyang Jiang et.al.|[2303.08550v1](http://arxiv.org/abs/2303.08550v1)|null|
 |**2023-03-13**|**Discovering Multiple Algorithm Configurations**|Leonid Keselman et.al.|[2303.07434v1](http://arxiv.org/abs/2303.07434v1)|null|
 |**2023-03-09**|**Virtual Inverse Perspective Mapping for Simultaneous Pose and Motion Estimation**|Masahiro Hirano et.al.|[2303.05192v1](http://arxiv.org/abs/2303.05192v1)|null|
@@ -75,6 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
 |**2022-12-21**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v1](http://arxiv.org/abs/2212.11417v1)|null|
 |**2023-02-07**|**ShaSTA: Modeling Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2211.03919v2](http://arxiv.org/abs/2211.03919v2)|null|
@@ -144,6 +146,7 @@ layout: default
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
 |**2023-02-13**|**IDMS: Instance Depth for Multi-scale Monocular 3D Object Detection**|Chao Hu et.al.|[2212.01528v2](http://arxiv.org/abs/2212.01528v2)|null|
 |**2022-11-30**|**Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wu et.al.|[2211.16779v1](http://arxiv.org/abs/2211.16779v1)|null|
+|**2023-03-17**|**3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shu et.al.|[2211.14710v2](http://arxiv.org/abs/2211.14710v2)|null|
 |**2022-11-14**|**Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**|Yu Hong et.al.|[2211.07171v1](http://arxiv.org/abs/2211.07171v1)|**[link](https://github.com/Cc-Hy/CMKD)**|
 |**2022-11-03**|**Ground Plane Matters: Picking Up Ground Plane Prior in Monocular 3D Object Detection**|Fan Yang et.al.|[2211.01556v1](http://arxiv.org/abs/2211.01556v1)|null|
 |**2022-11-02**|**OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**|Yongzhi Su et.al.|[2211.01142v1](http://arxiv.org/abs/2211.01142v1)|null|
