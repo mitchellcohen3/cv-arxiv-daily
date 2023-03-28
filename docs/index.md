@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -142,6 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation**|Yunsong Zhou et.al.|[2303.13561v1](http://arxiv.org/abs/2303.13561v1)|null|
 |**2023-03-23**|**MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer**|Yunsong Zhou et.al.|[2303.13018v1](http://arxiv.org/abs/2303.13018v1)|null|
 |**2023-03-20**|**Augment and Criticize: Exploring Informative Samples for Semi-Supervised Monocular 3D Object Detection**|Zhenyu Li et.al.|[2303.11243v1](http://arxiv.org/abs/2303.11243v1)|null|
 |**2023-03-15**|**Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency**|Runzhou Tao et.al.|[2303.08686v1](http://arxiv.org/abs/2303.08686v1)|null|
