@@ -91,6 +91,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
 |**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
 |**2022-12-21**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v1](http://arxiv.org/abs/2212.11417v1)|null|
@@ -157,6 +158,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Learning to Zoom and Unzoom**|Chittesh Thavamani et.al.|[2303.15390v1](http://arxiv.org/abs/2303.15390v1)|null|
 |**2023-03-23**|**MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation**|Yunsong Zhou et.al.|[2303.13561v1](http://arxiv.org/abs/2303.13561v1)|null|
 |**2023-03-23**|**MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer**|Yunsong Zhou et.al.|[2303.13018v1](http://arxiv.org/abs/2303.13018v1)|null|
 |**2023-03-20**|**Augment and Criticize: Exploring Informative Samples for Semi-Supervised Monocular 3D Object Detection**|Zhenyu Li et.al.|[2303.11243v1](http://arxiv.org/abs/2303.11243v1)|null|
