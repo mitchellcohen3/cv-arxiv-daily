@@ -68,7 +68,7 @@
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
 |**2023-03-22**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v2](http://arxiv.org/abs/2209.07888v2)|null|
-|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|**[link](https://github.com/smartroboticslab/vimid)**|
 |**2023-01-13**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye et.al.|[2207.08794v2](http://arxiv.org/abs/2207.08794v2)|**[link](https://github.com/zju3dv/DeFlowSLAM)**|
 |**2023-02-28**|**SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**|Chih-Yuan Chiu et.al.|[2207.05043v7](http://arxiv.org/abs/2207.05043v7)|null|
 |**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
@@ -81,7 +81,7 @@
 |**2020-11-24**|**Where Does It End? -- Reasoning About Hidden Surfaces by Object Intersection Constraints**|Michael Strecke et.al.|[2004.04630v3](http://arxiv.org/abs/2004.04630v3)|**[link](https://github.com/EmbodiedVision/cosection)**|
 |**2020-02-24**|**Dynamic SLAM: The Need For Speed**|Mina Henein et.al.|[2002.08584v2](http://arxiv.org/abs/2002.08584v2)|null|
 |**2020-11-24**|**EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association**|Michael Strecke et.al.|[1904.11781v2](http://arxiv.org/abs/1904.11781v2)|**[link](https://github.com/EmbodiedVision/emfusion)**|
-|**2019-03-21**|**MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM**|Binbin Xu et.al.|[1812.07976v4](http://arxiv.org/abs/1812.07976v4)|null|
+|**2019-03-21**|**MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM**|Binbin Xu et.al.|[1812.07976v4](http://arxiv.org/abs/1812.07976v4)|**[link](https://github.com/smartroboticslab/mid-fusion)**|
 |**2016-04-12**|**Spatiotemporal Articulated Models for Dynamic SLAM**|Suren Kumar et.al.|[1604.03526v1](http://arxiv.org/abs/1604.03526v1)|null|
 |**2014-03-09**|**Slamming of a breaking wave on a wall**|Jian-Jun Shu et.al.|[1403.2750v1](http://arxiv.org/abs/1403.2750v1)|null|
 
