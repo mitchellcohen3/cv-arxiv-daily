@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -93,7 +93,7 @@ layout: default
 |**2022-09-12**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v3](http://arxiv.org/abs/2209.02540v3)|null|
 |**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang et.al.|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|
 |**2022-08-26**|**Minkowski Tracker: A Sparse Spatio-Temporal R-CNN for Joint Object Detection and Tracking**|JunYoung Gwak et.al.|[2208.10056v3](http://arxiv.org/abs/2208.10056v3)|null|
-|**2022-08-17**|**InterTrack: Interaction Transformer for 3D Multi-Object Tracking**|John Willes et.al.|[2208.08041v1](http://arxiv.org/abs/2208.08041v1)|null|
+|**2023-05-06**|**InterTrack: Interaction Transformer for 3D Multi-Object Tracking**|John Willes et.al.|[2208.08041v2](http://arxiv.org/abs/2208.08041v2)|null|
 |**2022-07-29**|**Significant changes in EEG neural oscillations during different phases of three-dimensional multiple object tracking task (3D-MOT) imply different roles for attention and working memory**|Yannick Roy et.al.|[2207.14470v1](http://arxiv.org/abs/2207.14470v1)|null|
 |**2022-03-04**|**DetFlowTrack: 3D Multi-object Tracking based on Simultaneous Optimization of Object Detection and Scene Flow Estimation**|Yueling Shen et.al.|[2203.02157v1](http://arxiv.org/abs/2203.02157v1)|null|
 |**2021-11-18**|**SimpleTrack: Understanding and Rethinking 3D Multi-object Tracking**|Ziqi Pang et.al.|[2111.09621v1](http://arxiv.org/abs/2111.09621v1)|**[link](https://github.com/tusimple/simpletrack)**|
