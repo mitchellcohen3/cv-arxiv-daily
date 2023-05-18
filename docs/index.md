@@ -88,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Towards Object Re-Identification from Point Clouds for 3D MOT**|Benjamin Thérien et.al.|[2305.10210v1](http://arxiv.org/abs/2305.10210v1)|null|
 |**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
 |**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
