@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -93,7 +93,7 @@ layout: default
 |**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
 |**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
-|**2022-12-21**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v1](http://arxiv.org/abs/2212.11417v1)|null|
+|**2023-05-30**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v2](http://arxiv.org/abs/2212.11417v2)|null|
 |**2023-02-07**|**ShaSTA: Modeling Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2211.03919v2](http://arxiv.org/abs/2211.03919v2)|null|
 |**2022-09-12**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v3](http://arxiv.org/abs/2209.02540v3)|null|
 |**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang et.al.|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,7 +65,7 @@
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## Dynamic SLAM
 
@@ -94,7 +94,7 @@
 |**2016-04-12**|**Spatiotemporal Articulated Models for Dynamic SLAM**|Suren Kumar et.al.|[1604.03526v1](http://arxiv.org/abs/1604.03526v1)|null|
 |**2014-03-09**|**Slamming of a breaking wave on a wall**|Jian-Jun Shu et.al.|[1403.2750v1](http://arxiv.org/abs/1403.2750v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## 3D Multi-Object Tracking
 
@@ -104,7 +104,7 @@
 |**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
 |**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
-|**2022-12-21**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v1](http://arxiv.org/abs/2212.11417v1)|null|
+|**2023-05-30**|**Photonic integrated beam delivery in a rubidium 3D magneto-optical trap**|Andrei Isichenko et.al.|[2212.11417v2](http://arxiv.org/abs/2212.11417v2)|null|
 |**2023-02-07**|**ShaSTA: Modeling Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2211.03919v2](http://arxiv.org/abs/2211.03919v2)|null|
 |**2022-09-12**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v3](http://arxiv.org/abs/2209.02540v3)|null|
 |**2022-08-23**|**Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**|Jinrong Yang et.al.|[2208.10976v1](http://arxiv.org/abs/2208.10976v1)|null|
@@ -130,7 +130,7 @@
 |**2014-12-08**|**Design of a dual species atom interferometer for space**|Thilo Schuldt et.al.|[1412.2713v1](http://arxiv.org/abs/1412.2713v1)|null|
 |**2014-08-08**|**All-optical production and trapping of metastable noble gas atoms down to the single atom regime**|M. Kohler et.al.|[1408.1794v1](http://arxiv.org/abs/1408.1794v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## Object-Level SLAM and Semantic SLAM
 
@@ -164,7 +164,7 @@
 |**2020-07-29**|**EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association**|Yanmin Wu et.al.|[2004.12730v2](http://arxiv.org/abs/2004.12730v2)|**[link](https://github.com/yanmin-wu/EAO-SLAM)**|
 |**2020-05-04**|**Technical Report: Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback**|Vasileios Vasilopoulos et.al.|[2002.12349v3](http://arxiv.org/abs/2002.12349v3)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## Image-Based 3D Object Detection
 
@@ -209,7 +209,7 @@
 |**2022-06-15**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li et.al.|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
 |**2022-05-30**|**Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving**|Peixuan Li et.al.|[2205.14882v1](http://arxiv.org/abs/2205.14882v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
