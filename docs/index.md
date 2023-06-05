@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -159,7 +159,7 @@ layout: default
 |**2023-05-29**|**VCVW-3D: A Virtual Construction Vehicles and Workers Dataset with 3D Annotations**|Yuexiong Ding et.al.|[2305.17927v1](http://arxiv.org/abs/2305.17927v1)|null|
 |**2023-05-25**|**Learning Occupancy for Monocular 3D Object Detection**|Liang Peng et.al.|[2305.15694v1](http://arxiv.org/abs/2305.15694v1)|**[link](https://github.com/spengliang/occupancym3d)**|
 |**2023-05-25**|**MonoTDP: Twin Depth Perception for Monocular 3D Object Detection in Adverse Scenes**|Xingyuan Li et.al.|[2305.10974v2](http://arxiv.org/abs/2305.10974v2)|null|
-|**2023-05-12**|**SSD-MonoDTR: Supervised Scale-constrained Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al.|[2305.07270v1](http://arxiv.org/abs/2305.07270v1)|**[link](https://github.com/mikasa3lili/ssd-monodetr)**|
+|**2023-06-02**|**SSD-MonoDETR: Supervised Scale-aware Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al.|[2305.07270v2](http://arxiv.org/abs/2305.07270v2)|**[link](https://github.com/mikasa3lili/ssd-monodetr)**|
 |**2023-04-03**|**Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver**|Xianpeng Liu et.al.|[2304.01289v1](http://arxiv.org/abs/2304.01289v1)|null|
 |**2023-03-30**|**SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer**|Xuanyao Chen et.al.|[2303.17605v1](http://arxiv.org/abs/2303.17605v1)|null|
 |**2023-03-27**|**Learning to Zoom and Unzoom**|Chittesh Thavamani et.al.|[2303.15390v1](http://arxiv.org/abs/2303.15390v1)|null|
