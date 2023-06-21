@@ -173,6 +173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**Understanding Depth Map Progressively: Adaptive Distance Interval Separation for Monocular 3d Object Detection**|Xianhui Cheng et.al.|[2306.10921v1](http://arxiv.org/abs/2306.10921v1)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-05-29**|**Monocular 2D Camera-based Proximity Monitoring for Human-Machine Collision Warning on Construction Sites**|Yuexiong Ding et.al.|[2305.17931v1](http://arxiv.org/abs/2305.17931v1)|null|
 |**2023-05-29**|**VCVW-3D: A Virtual Construction Vehicles and Workers Dataset with 3D Annotations**|Yuexiong Ding et.al.|[2305.17927v1](http://arxiv.org/abs/2305.17927v1)|null|
