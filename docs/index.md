@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -91,7 +91,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888v1](http://arxiv.org/abs/2306.05888v1)|null|
-|**2023-05-17**|**Towards Object Re-Identification from Point Clouds for 3D MOT**|Benjamin Thérien et.al.|[2305.10210v1](http://arxiv.org/abs/2305.10210v1)|null|
+|**2023-06-30**|**Object Re-Identification from Point Clouds**|Benjamin Thérien et.al.|[2305.10210v2](http://arxiv.org/abs/2305.10210v2)|null|
 |**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
 |**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
@@ -164,7 +164,7 @@ layout: default
 |**2023-05-29**|**VCVW-3D: A Virtual Construction Vehicles and Workers Dataset with 3D Annotations**|Yuexiong Ding et.al.|[2305.17927v1](http://arxiv.org/abs/2305.17927v1)|null|
 |**2023-05-25**|**Learning Occupancy for Monocular 3D Object Detection**|Liang Peng et.al.|[2305.15694v1](http://arxiv.org/abs/2305.15694v1)|**[link](https://github.com/spengliang/occupancym3d)**|
 |**2023-05-25**|**MonoTDP: Twin Depth Perception for Monocular 3D Object Detection in Adverse Scenes**|Xingyuan Li et.al.|[2305.10974v2](http://arxiv.org/abs/2305.10974v2)|null|
-|**2023-06-02**|**SSD-MonoDETR: Supervised Scale-aware Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al.|[2305.07270v2](http://arxiv.org/abs/2305.07270v2)|null|
+|**2023-07-03**|**SSD-MonoDETR: Supervised Scale-aware Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al.|[2305.07270v3](http://arxiv.org/abs/2305.07270v3)|null|
 |**2023-04-03**|**Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver**|Xianpeng Liu et.al.|[2304.01289v1](http://arxiv.org/abs/2304.01289v1)|null|
 |**2023-03-30**|**SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer**|Xuanyao Chen et.al.|[2303.17605v1](http://arxiv.org/abs/2303.17605v1)|null|
 |**2023-03-27**|**Learning to Zoom and Unzoom**|Chittesh Thavamani et.al.|[2303.15390v1](http://arxiv.org/abs/2303.15390v1)|null|
@@ -178,7 +178,7 @@ layout: default
 |**2022-12-20**|**OBMO: One Bounding Box Multiple Objects for Monocular 3D Object Detection**|Chenxi Huang et.al.|[2212.10049v1](http://arxiv.org/abs/2212.10049v1)|**[link](https://github.com/mrsempress/obmo)**|
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
 |**2023-02-13**|**IDMS: Instance Depth for Multi-scale Monocular 3D Object Detection**|Chao Hu et.al.|[2212.01528v2](http://arxiv.org/abs/2212.01528v2)|null|
-|**2022-11-30**|**Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wu et.al.|[2211.16779v1](http://arxiv.org/abs/2211.16779v1)|null|
+|**2023-07-03**|**Attention-Based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wu et.al.|[2211.16779v2](http://arxiv.org/abs/2211.16779v2)|null|
 |**2023-03-17**|**3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shu et.al.|[2211.14710v2](http://arxiv.org/abs/2211.14710v2)|null|
 |**2022-11-14**|**Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**|Yu Hong et.al.|[2211.07171v1](http://arxiv.org/abs/2211.07171v1)|**[link](https://github.com/Cc-Hy/CMKD)**|
 |**2022-11-03**|**Ground Plane Matters: Picking Up Ground Plane Prior in Monocular 3D Object Detection**|Fan Yang et.al.|[2211.01556v1](http://arxiv.org/abs/2211.01556v1)|null|
