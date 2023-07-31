@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.30
+## Updated on 2023.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -183,7 +183,7 @@ layout: default
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
 |**2023-02-13**|**IDMS: Instance Depth for Multi-scale Monocular 3D Object Detection**|Chao Hu et.al.|[2212.01528v2](http://arxiv.org/abs/2212.01528v2)|null|
 |**2023-07-03**|**Attention-Based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection**|Zizhang Wu et.al.|[2211.16779v2](http://arxiv.org/abs/2211.16779v2)|null|
-|**2023-03-17**|**3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shu et.al.|[2211.14710v2](http://arxiv.org/abs/2211.14710v2)|null|
+|**2023-07-28**|**3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shu et.al.|[2211.14710v3](http://arxiv.org/abs/2211.14710v3)|null|
 |**2022-11-14**|**Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**|Yu Hong et.al.|[2211.07171v1](http://arxiv.org/abs/2211.07171v1)|**[link](https://github.com/Cc-Hy/CMKD)**|
 |**2022-11-03**|**Ground Plane Matters: Picking Up Ground Plane Prior in Monocular 3D Object Detection**|Fan Yang et.al.|[2211.01556v1](http://arxiv.org/abs/2211.01556v1)|null|
 |**2022-11-02**|**OPA-3D: Occlusion-Aware Pixel-Wise Aggregation for Monocular 3D Object Detection**|Yongzhi Su et.al.|[2211.01142v1](http://arxiv.org/abs/2211.01142v1)|null|
