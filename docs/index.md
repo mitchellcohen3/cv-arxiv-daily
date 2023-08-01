@@ -93,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675v1](http://arxiv.org/abs/2307.16675v1)|**[link](https://github.com/lixiaoyu2000/Poly-MOT)**|
 |**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888v1](http://arxiv.org/abs/2306.05888v1)|null|
 |**2023-06-30**|**Object Re-Identification from Point Clouds**|Benjamin Thérien et.al.|[2305.10210v2](http://arxiv.org/abs/2305.10210v2)|null|
 |**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
