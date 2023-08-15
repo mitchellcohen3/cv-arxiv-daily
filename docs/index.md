@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -98,7 +98,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-31**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675v1](http://arxiv.org/abs/2307.16675v1)|**[link](https://github.com/lixiaoyu2000/Poly-MOT)**|
 |**2023-06-09**|**TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**|Xuesong Chen et.al.|[2306.05888v1](http://arxiv.org/abs/2306.05888v1)|null|
-|**2023-06-30**|**Object Re-Identification from Point Clouds**|Benjamin Thérien et.al.|[2305.10210v2](http://arxiv.org/abs/2305.10210v2)|null|
+|**2023-08-11**|**Object Re-Identification from Point Clouds**|Benjamin Thérien et.al.|[2305.10210v3](http://arxiv.org/abs/2305.10210v3)|null|
 |**2023-03-27**|**ByteTrackV2: 2D and 3D Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2303.15334v1](http://arxiv.org/abs/2303.15334v1)|null|
 |**2023-03-17**|**GOOD: General Optimization-based Fusion for 3D Object Detection via LiDAR-Camera Object Candidates**|Bingqi Shen et.al.|[2303.09800v1](http://arxiv.org/abs/2303.09800v1)|null|
 |**2023-03-09**|**A 2D MOT of dysprosium atoms as a compact source for efficient loading of a narrow-line 3D MOT**|Shuwei Jin et.al.|[2303.05191v1](http://arxiv.org/abs/2303.05191v1)|null|
@@ -148,7 +148,7 @@ layout: default
 |**2021-09-20**|**Superquadric Object Representation for Optimization-based Semantic SLAM**|Florian Tschopp et.al.|[2109.09627v1](http://arxiv.org/abs/2109.09627v1)|null|
 |**2021-09-16**|**Evaluating the Impact of Semantic Segmentation and Pose Estimation on Dense Semantic SLAM**|Suman Raj Bista et.al.|[2109.07748v1](http://arxiv.org/abs/2109.07748v1)|null|
 |**2021-09-15**|**ROW-SLAM: Under-Canopy Cornfield Semantic SLAM**|Jiacheng Yuan et.al.|[2109.07134v1](http://arxiv.org/abs/2109.07134v1)|null|
-|**2022-02-26**|**Large-scale Autonomous Flight with Real-time Semantic SLAM under Dense Forest Canopy**|Xu Liu et.al.|[2109.06479v4](http://arxiv.org/abs/2109.06479v4)|**[link](https://github.com/KumarRobotics/sloam)**|
+|**2023-08-13**|**Large-scale Autonomous Flight with Real-time Semantic SLAM under Dense Forest Canopy**|Xu Liu et.al.|[2109.06479v5](http://arxiv.org/abs/2109.06479v5)|**[link](https://github.com/KumarRobotics/sloam)**|
 |**2021-12-17**|**Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems**|Yulun Tian et.al.|[2106.14386v2](http://arxiv.org/abs/2106.14386v2)|null|
 |**2021-05-26**|**Epistemic Uncertainty Aware Semantic Localization and Mapping for Inference and Belief Space Planning**|Vladimir Tchuiev et.al.|[2105.12359v1](http://arxiv.org/abs/2105.12359v1)|null|
 |**2021-05-24**|**SuMa++: Efficient LiDAR-based Semantic SLAM**|Xieyuanli Chen et.al.|[2105.11320v1](http://arxiv.org/abs/2105.11320v1)|**[link](https://github.com/PRBonn/semantic_suma)**|
