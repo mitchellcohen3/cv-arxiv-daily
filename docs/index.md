@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -150,7 +150,7 @@ layout: default
 |**2021-09-20**|**Superquadric Object Representation for Optimization-based Semantic SLAM**|Florian Tschopp et.al.|[2109.09627v1](http://arxiv.org/abs/2109.09627v1)|null|
 |**2021-09-16**|**Evaluating the Impact of Semantic Segmentation and Pose Estimation on Dense Semantic SLAM**|Suman Raj Bista et.al.|[2109.07748v1](http://arxiv.org/abs/2109.07748v1)|null|
 |**2021-09-15**|**ROW-SLAM: Under-Canopy Cornfield Semantic SLAM**|Jiacheng Yuan et.al.|[2109.07134v1](http://arxiv.org/abs/2109.07134v1)|null|
-|**2023-08-13**|**Large-scale Autonomous Flight with Real-time Semantic SLAM under Dense Forest Canopy**|Xu Liu et.al.|[2109.06479v5](http://arxiv.org/abs/2109.06479v5)|**[link](https://github.com/KumarRobotics/sloam)**|
+|**2023-08-16**|**Large-scale Autonomous Flight with Real-time Semantic SLAM under Dense Forest Canopy**|Xu Liu et.al.|[2109.06479v6](http://arxiv.org/abs/2109.06479v6)|**[link](https://github.com/KumarRobotics/sloam)**|
 |**2021-12-17**|**Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems**|Yulun Tian et.al.|[2106.14386v2](http://arxiv.org/abs/2106.14386v2)|null|
 |**2021-05-26**|**Epistemic Uncertainty Aware Semantic Localization and Mapping for Inference and Belief Space Planning**|Vladimir Tchuiev et.al.|[2105.12359v1](http://arxiv.org/abs/2105.12359v1)|null|
 |**2021-05-24**|**SuMa++: Efficient LiDAR-based Semantic SLAM**|Xieyuanli Chen et.al.|[2105.11320v1](http://arxiv.org/abs/2105.11320v1)|**[link](https://github.com/PRBonn/semantic_suma)**|
