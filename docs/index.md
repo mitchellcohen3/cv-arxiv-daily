@@ -71,6 +71,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
 |**2023-05-26**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v2](http://arxiv.org/abs/2305.04286v2)|null|
 |**2023-08-16**|**Slamming Forces During Water Entry of a Simple Harmonic Oscillator**|John T. Antolik et.al.|[2304.08672v2](http://arxiv.org/abs/2304.08672v2)|**[link](https://github.com/harrislab-brown/waterentrysho)**|
 |**2023-03-23**|**RGB-D-Inertial SLAM in Indoor Dynamic Environments with Long-term Large Occlusion**|Ran Long et.al.|[2303.13316v1](http://arxiv.org/abs/2303.13316v1)|null|
@@ -99,7 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
 |**2023-08-17**|**BOTT: Box Only Transformer Tracker for 3D Object Tracking**|Lubing Zhou et.al.|[2308.08753v1](http://arxiv.org/abs/2308.08753v1)|null|
 |**2023-08-12**|**3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking**|Shuxiao Ding et.al.|[2308.06635v1](http://arxiv.org/abs/2308.06635v1)|**[link](https://github.com/dsx0511/3dmotformer)**|
 |**2023-07-31**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675v1](http://arxiv.org/abs/2307.16675v1)|**[link](https://github.com/lixiaoyu2000/Poly-MOT)**|
@@ -171,7 +172,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607v1](http://arxiv.org/abs/2308.11607v1)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421v1](http://arxiv.org/abs/2308.09421v1)|**[link](https://github.com/cskkxjk/mononerd)**|
 |**2023-08-01**|**MonoNext: A 3D Monocular Object Detection with ConvNext**|Marcelo Eduardo Pederiva et.al.|[2308.00596v1](http://arxiv.org/abs/2308.00596v1)|null|
 |**2023-07-17**|**Monocular 3D Object Detection with LiDAR Guided Semi Supervised Active Learning**|Aral Hekimoglu et.al.|[2307.08415v1](http://arxiv.org/abs/2307.08415v1)|null|
