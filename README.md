@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947v1](http://arxiv.org/abs/2309.09947v1)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
@@ -85,6 +86,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
 |**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
 |**2023-05-26**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v2](http://arxiv.org/abs/2305.04286v2)|null|
 |**2023-08-16**|**Slamming Forces During Water Entry of a Simple Harmonic Oscillator**|John T. Antolik et.al.|[2304.08672v2](http://arxiv.org/abs/2304.08672v2)|**[link](https://github.com/harrislab-brown/waterentrysho)**|
