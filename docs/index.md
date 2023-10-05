@@ -115,6 +115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2310.02532v1](http://arxiv.org/abs/2310.02532v1)|null|
 |**2023-09-30**|**Magneto-optical trap reaction microscope for photoioization of cold strontium atoms**|Shushu Ruan et.al.|[2310.00389v1](http://arxiv.org/abs/2310.00389v1)|null|
 |**2023-09-28**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411v2](http://arxiv.org/abs/2309.15411v2)|null|
 |**2023-09-13**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036v2](http://arxiv.org/abs/2309.06036v2)|null|
@@ -192,6 +193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|null|
 |**2023-10-02**|**Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training**|Fulong Ma et.al.|[2310.00920v1](http://arxiv.org/abs/2310.00920v1)|null|
 |**2023-09-30**|**MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings**|Lei Yang et.al.|[2310.00400v1](http://arxiv.org/abs/2310.00400v1)|null|
 |**2023-09-13**|**Polygon Intersection-over-Union Loss for Viewpoint-Agnostic Monocular 3D Vehicle Detection**|Derek Gloudemans et.al.|[2309.07104v1](http://arxiv.org/abs/2309.07104v1)|null|
