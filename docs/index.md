@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-02**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v2](http://arxiv.org/abs/2309.16772v2)|null|
+|**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v3](http://arxiv.org/abs/2309.16772v3)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
 |**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|**[link](https://github.com/norlab-ulaval/borealhdr)**|
@@ -193,7 +193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|**[link](https://github.com/MasterHow/CoBEV)**|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|null|
 |**2023-10-02**|**Every Dataset Counts: Scaling up Monocular 3D Object Detection with Joint Datasets Training**|Fulong Ma et.al.|[2310.00920v1](http://arxiv.org/abs/2310.00920v1)|null|
 |**2023-09-30**|**MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings**|Lei Yang et.al.|[2310.00400v1](http://arxiv.org/abs/2310.00400v1)|null|
 |**2023-09-13**|**Polygon Intersection-over-Union Loss for Viewpoint-Agnostic Monocular 3D Vehicle Detection**|Derek Gloudemans et.al.|[2309.07104v1](http://arxiv.org/abs/2309.07104v1)|null|
