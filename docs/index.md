@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
@@ -199,7 +200,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620v1](http://arxiv.org/abs/2310.18620v1)|null|
+|**2023-11-07**|**ODM3D: Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620v2](http://arxiv.org/abs/2310.18620v2)|null|
 |**2023-10-24**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624v1](http://arxiv.org/abs/2310.15624v1)|**[link](https://github.com/supermhp/gupnet)**|
 |**2023-10-17**|**MonoSKD: General Distillation Framework for Monocular 3D Object Detection via Spearman Correlation Coefficient**|Sen Wang et.al.|[2310.11316v1](http://arxiv.org/abs/2310.11316v1)|**[link](https://github.com/senwang98/monoskd)**|
 |**2023-10-09**|**Rotation Matters: Generalized Monocular 3D Object Detection for Various Camera Systems**|SungHo Moon et.al.|[2310.05366v1](http://arxiv.org/abs/2310.05366v1)|null|
