@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
@@ -165,6 +166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian et.al.|[2311.12245v1](http://arxiv.org/abs/2311.12245v1)|null|
 |**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016v1](http://arxiv.org/abs/2311.11016v1)|null|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
 |**2023-09-26**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v2](http://arxiv.org/abs/2309.14063v2)|null|
@@ -172,7 +174,7 @@ layout: default
 |**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570v1](http://arxiv.org/abs/2306.04570v1)|null|
 |**2023-05-05**|**Multi S-graphs: A Collaborative Semantic SLAM architecture**|Miguel Fernandez-Cortizas et.al.|[2305.03441v1](http://arxiv.org/abs/2305.03441v1)|null|
 |**2023-05-09**|**Neural Implicit Dense Semantic SLAM**|Yasaman Haghighi et.al.|[2304.14560v2](http://arxiv.org/abs/2304.14560v2)|null|
-|**2023-02-26**|**Autonomous Search of Semantic Objects in Unknown Environments**|Zhentian Qian et.al.|[2302.13236v1](http://arxiv.org/abs/2302.13236v1)|null|
+|**2023-11-20**|**Autonomous Search of Semantic Objects in Unknown Environments**|Zhentian Qian et.al.|[2302.13236v2](http://arxiv.org/abs/2302.13236v2)|null|
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
 |**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
 |**2023-03-22**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v2](http://arxiv.org/abs/2209.07888v2)|null|
