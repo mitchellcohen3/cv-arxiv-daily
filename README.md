@@ -104,7 +104,7 @@
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
 |**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
 |**2023-05-26**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v2](http://arxiv.org/abs/2305.04286v2)|null|
-|**2023-08-16**|**Slamming Forces During Water Entry of a Simple Harmonic Oscillator**|John T. Antolik et.al.|[2304.08672v2](http://arxiv.org/abs/2304.08672v2)|**[link](https://github.com/harrislab-brown/waterentrysho)**|
+|**2023-11-27**|**Slamming Forces During Water Entry of a Simple Harmonic Oscillator**|John T. Antolik et.al.|[2304.08672v3](http://arxiv.org/abs/2304.08672v3)|**[link](https://github.com/harrislab-brown/waterentrysho)**|
 |**2023-03-23**|**RGB-D-Inertial SLAM in Indoor Dynamic Environments with Long-term Large Occlusion**|Ran Long et.al.|[2303.13316v1](http://arxiv.org/abs/2303.13316v1)|null|
 |**2023-10-12**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v2](http://arxiv.org/abs/2303.04466v2)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-02-23**|**Amos-SLAM: An Anti-Dynamics Two-stage SLAM Approach**|Yaoming Zhuang et.al.|[2302.11747v1](http://arxiv.org/abs/2302.11747v1)|null|
