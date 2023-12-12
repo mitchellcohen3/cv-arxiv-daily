@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
@@ -208,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection**|Yunhao Ge et.al.|[2312.05277v1](http://arxiv.org/abs/2312.05277v1)|**[link](https://github.com/gyhandy/3d-copy-paste)**|
 |**2023-11-07**|**ODM3D: Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620v2](http://arxiv.org/abs/2310.18620v2)|null|
 |**2023-10-24**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624v1](http://arxiv.org/abs/2310.15624v1)|**[link](https://github.com/supermhp/gupnet)**|
 |**2023-10-17**|**MonoSKD: General Distillation Framework for Monocular 3D Object Detection via Spearman Correlation Coefficient**|Sen Wang et.al.|[2310.11316v1](http://arxiv.org/abs/2310.11316v1)|**[link](https://github.com/senwang98/monoskd)**|
