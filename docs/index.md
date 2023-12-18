@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800v1](http://arxiv.org/abs/2312.09800v1)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
