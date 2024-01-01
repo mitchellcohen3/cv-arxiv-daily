@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.31
+## Updated on 2024.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332v2](http://arxiv.org/abs/2312.13332v2)|null|
 |**2023-12-20**|**Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach**|Habib Boloorchi Tabrizi et.al.|[2312.13162v1](http://arxiv.org/abs/2312.13162v1)|null|
@@ -38,7 +38,7 @@
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v3](http://arxiv.org/abs/2309.16772v3)|null|
-|**2023-10-22**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v2](http://arxiv.org/abs/2309.15268v2)|**[link](https://github.com/ut-amrl/obvi-slam)**|
+|**2023-10-22**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v2](http://arxiv.org/abs/2309.15268v2)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311v1](http://arxiv.org/abs/2309.13311v1)|null|
 |**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139v1](http://arxiv.org/abs/2309.13139v1)|**[link](https://github.com/norlab-ulaval/borealhdr)**|
 |**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente et.al.|[2309.11018v1](http://arxiv.org/abs/2309.11018v1)|null|
@@ -104,7 +104,7 @@
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231231>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## Dynamic SLAM
 
@@ -138,7 +138,7 @@
 |**2016-04-12**|**Spatiotemporal Articulated Models for Dynamic SLAM**|Suren Kumar et.al.|[1604.03526v1](http://arxiv.org/abs/1604.03526v1)|null|
 |**2014-03-09**|**Slamming of a breaking wave on a wall**|Jian-Jun Shu et.al.|[1403.2750v1](http://arxiv.org/abs/1403.2750v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231231>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## 3D Multi-Object Tracking
 
@@ -183,7 +183,7 @@
 |**2014-12-08**|**Design of a dual species atom interferometer for space**|Thilo Schuldt et.al.|[1412.2713v1](http://arxiv.org/abs/1412.2713v1)|null|
 |**2014-08-08**|**All-optical production and trapping of metastable noble gas atoms down to the single atom regime**|M. Kohler et.al.|[1408.1794v1](http://arxiv.org/abs/1408.1794v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231231>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## Object-Level SLAM and Semantic SLAM
 
@@ -224,7 +224,7 @@
 |**2020-07-29**|**EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association**|Yanmin Wu et.al.|[2004.12730v2](http://arxiv.org/abs/2004.12730v2)|**[link](https://github.com/yanmin-wu/EAO-SLAM)**|
 |**2020-05-04**|**Technical Report: Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback**|Vasileios Vasilopoulos et.al.|[2002.12349v3](http://arxiv.org/abs/2002.12349v3)|null|
 
-<p align=right>(<a href=#Updated-on-20231231>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 ## Image-Based 3D Object Detection
 
@@ -287,7 +287,7 @@
 |**2022-06-15**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li et.al.|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
 |**2022-05-30**|**Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving**|Peixuan Li et.al.|[2205.14882v1](http://arxiv.org/abs/2205.14882v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231231>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
