@@ -224,6 +224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319v1](http://arxiv.org/abs/2401.15319v1)|null|
 |**2024-01-02**|**Depth-discriminative Metric Learning for Monocular 3D Object Detection**|Wonhyeok Choi et.al.|[2401.01075v1](http://arxiv.org/abs/2401.01075v1)|null|
 |**2023-12-08**|**3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection**|Yunhao Ge et.al.|[2312.05277v1](http://arxiv.org/abs/2312.05277v1)|**[link](https://github.com/gyhandy/3d-copy-paste)**|
 |**2023-11-07**|**ODM3D: Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620v2](http://arxiv.org/abs/2310.18620v2)|**[link](https://github.com/arcaninez/odm3d)**|
