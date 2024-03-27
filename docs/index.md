@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084v1](http://arxiv.org/abs/2403.17084v1)|null|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170v1](http://arxiv.org/abs/2403.13170v1)|null|
 |**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194v1](http://arxiv.org/abs/2403.12194v1)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639v1](http://arxiv.org/abs/2403.11639v1)|null|
@@ -242,6 +243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection**|Jiacheng Zhang et.al.|[2403.17387v1](http://arxiv.org/abs/2403.17387v1)|null|
 |**2024-03-06**|**Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**|Wonhyeok Choi et.al.|[2403.03468v1](http://arxiv.org/abs/2403.03468v1)|null|
 |**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573v1](http://arxiv.org/abs/2402.18573v1)|null|
 |**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319v1](http://arxiv.org/abs/2401.15319v1)|null|
