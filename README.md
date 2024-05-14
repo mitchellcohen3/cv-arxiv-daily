@@ -138,6 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392v1](http://arxiv.org/abs/2405.07392v1)|null|
 |**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v1](http://arxiv.org/abs/2402.13817v1)|**[link](https://github.com/mit-spark/khronos)**|
 |**2023-12-07**|**The Importance of Coordinate Frames in Dynamic SLAM**|Jesse Morris et.al.|[2312.04031v1](http://arxiv.org/abs/2312.04031v1)|null|
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
@@ -268,6 +269,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696v1](http://arxiv.org/abs/2405.07696v1)|null|
 |**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v1](http://arxiv.org/abs/2404.09431v1)|null|
 |**2024-04-08**|**MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**|Xiahan Chen et.al.|[2404.05280v1](http://arxiv.org/abs/2404.05280v1)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
