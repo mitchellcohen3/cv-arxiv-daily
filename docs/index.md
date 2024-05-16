@@ -163,6 +163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909v1](http://arxiv.org/abs/2405.08909v1)|**[link](https://github.com/dsx0511/ada-track)**|
 |**2024-03-20**|**Fast-Poly: A Fast Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2403.13443v1](http://arxiv.org/abs/2403.13443v1)|**[link](https://github.com/lixiaoyu2000/fastpoly)**|
 |**2024-01-20**|**A versatile apparatus for simultaneous trapping of multiple species of ultracold atoms and ions to enable studies of low energy collisions and cold chemistry**|Bubai Rahaman et.al.|[2401.11233v1](http://arxiv.org/abs/2401.11233v1)|null|
 |**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2310.02532v1](http://arxiv.org/abs/2310.02532v1)|null|
