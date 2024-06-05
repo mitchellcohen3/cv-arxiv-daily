@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797v1](http://arxiv.org/abs/2406.01797v1)|null|
+|**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929v1](http://arxiv.org/abs/2406.00929v1)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|
 |**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082v1](http://arxiv.org/abs/2405.15082v1)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120v1](http://arxiv.org/abs/2405.12120v1)|null|
@@ -166,6 +168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147v1](http://arxiv.org/abs/2406.02147v1)|null|
 |**2024-05-19**|**RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR PointCloud**|Mohamed Nagy et.al.|[2405.11536v1](http://arxiv.org/abs/2405.11536v1)|null|
 |**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909v1](http://arxiv.org/abs/2405.08909v1)|**[link](https://github.com/dsx0511/ada-track)**|
 |**2024-03-20**|**Fast-Poly: A Fast Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2403.13443v1](http://arxiv.org/abs/2403.13443v1)|**[link](https://github.com/lixiaoyu2000/fastpoly)**|
