@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -160,7 +160,7 @@ layout: default
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
 |**2023-03-22**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v2](http://arxiv.org/abs/2209.07888v2)|null|
 |**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|**[link](https://github.com/smartroboticslab/vimid)**|
-|**2024-08-20**|**D $^3$ FlowSLAM: Self-Supervised Dynamic SLAM with Flow Motion Decomposition and DINO Guidance**|Xingyuan Yu et.al.|[2207.08794v3](http://arxiv.org/abs/2207.08794v3)|**[link](https://github.com/zju3dv/DeFlowSLAM)**|
+|**2024-08-21**|**D $^3$ FlowSLAM: Self-Supervised Dynamic SLAM with Flow Motion Decomposition and DINO Guidance**|Xingyuan Yu et.al.|[2207.08794v4](http://arxiv.org/abs/2207.08794v4)|**[link](https://github.com/zju3dv/DeFlowSLAM)**|
 |**2023-02-28**|**SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**|Chih-Yuan Chiu et.al.|[2207.05043v7](http://arxiv.org/abs/2207.05043v7)|null|
 |**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian et.al.|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
 |**2022-04-03**|**Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**|Wenyan Ou et.al.|[2204.01154v1](http://arxiv.org/abs/2204.01154v1)|null|
