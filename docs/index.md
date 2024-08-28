@@ -232,6 +232,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v1](http://arxiv.org/abs/2408.14726v1)|null|
 |**2024-07-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v3](http://arxiv.org/abs/2406.17249v3)|null|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v1](http://arxiv.org/abs/2403.12837v1)|null|
