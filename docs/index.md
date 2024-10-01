@@ -155,11 +155,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**DynORecon: Dynamic Object Reconstruction for Navigation**|Yiduo Wang et.al.|[2409.19928v1](http://arxiv.org/abs/2409.19928v1)|null|
 |**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
 |**2024-09-16**|**NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU**|Yuhao Zhang et.al.|[2405.07392v2](http://arxiv.org/abs/2405.07392v2)|**[link](https://github.com/yuhaozhang7/NGD-SLAM)**|
 |**2024-05-20**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v2](http://arxiv.org/abs/2402.13817v2)|**[link](https://github.com/mit-spark/khronos)**|
-|**2023-12-07**|**The Importance of Coordinate Frames in Dynamic SLAM**|Jesse Morris et.al.|[2312.04031v1](http://arxiv.org/abs/2312.04031v1)|null|
+|**2024-09-30**|**The Importance of Coordinate Frames in Dynamic SLAM**|Jesse Morris et.al.|[2312.04031v2](http://arxiv.org/abs/2312.04031v2)|null|
 |**2024-09-17**|**TivNe-SLAM: Dynamic Mapping and Tracking via Time-Varying Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v6](http://arxiv.org/abs/2310.18917v6)|null|
 |**2024-08-20**|**DynaPix SLAM: A Pixel-Based Dynamic Visual SLAM Approach**|Chenghao Xu et.al.|[2309.09879v2](http://arxiv.org/abs/2309.09879v2)|null|
 |**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
