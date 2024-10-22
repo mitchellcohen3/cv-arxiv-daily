@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-18**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107v2](http://arxiv.org/abs/2410.08107v2)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
-|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692v1](http://arxiv.org/abs/2409.11692v1)|null|
+|**2024-10-19**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692v2](http://arxiv.org/abs/2409.11692v2)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295v1](http://arxiv.org/abs/2409.09295v1)|null|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287v1](http://arxiv.org/abs/2409.09287v1)|**[link](https://github.com/ZikangYuan/panoramic_lidar_dso)**|
@@ -160,7 +160,7 @@
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## Dynamic SLAM
 
@@ -201,7 +201,7 @@
 |**2016-04-12**|**Spatiotemporal Articulated Models for Dynamic SLAM**|Suren Kumar et.al.|[1604.03526v1](http://arxiv.org/abs/1604.03526v1)|null|
 |**2014-03-09**|**Slamming of a breaking wave on a wall**|Jian-Jun Shu et.al.|[1403.2750v1](http://arxiv.org/abs/1403.2750v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## 3D Multi-Object Tracking
 
@@ -257,7 +257,7 @@
 |**2014-12-08**|**Design of a dual species atom interferometer for space**|Thilo Schuldt et.al.|[1412.2713v1](http://arxiv.org/abs/1412.2713v1)|null|
 |**2014-08-08**|**All-optical production and trapping of metastable noble gas atoms down to the single atom regime**|M. Kohler et.al.|[1408.1794v1](http://arxiv.org/abs/1408.1794v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## Object-Level SLAM and Semantic SLAM
 
@@ -310,7 +310,7 @@
 |**2020-07-29**|**EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association**|Yanmin Wu et.al.|[2004.12730v2](http://arxiv.org/abs/2004.12730v2)|**[link](https://github.com/yanmin-wu/EAO-SLAM)**|
 |**2020-05-04**|**Technical Report: Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback**|Vasileios Vasilopoulos et.al.|[2002.12349v3](http://arxiv.org/abs/2002.12349v3)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## Image-Based 3D Object Detection
 
@@ -394,7 +394,7 @@
 |**2022-06-15**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li et.al.|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
 |**2022-05-30**|**Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving**|Peixuan Li et.al.|[2205.14882v1](http://arxiv.org/abs/2205.14882v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
