@@ -214,6 +214,7 @@
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780v1](http://arxiv.org/abs/2411.06780v1)|null|
 |**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533v1](http://arxiv.org/abs/2409.17533v1)|null|
 |**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749v1](http://arxiv.org/abs/2409.11749v1)|null|
+|**2024-11-14**|**One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation**|Paul Johannes Claasen et.al.|[2409.02562v2](http://arxiv.org/abs/2409.02562v2)|**[link](https://github.com/Paulkie99/imm-jhse)**|
 |**2024-09-01**|**YOLOO: You Only Learn from Others Once**|Lipeng Gu et.al.|[2409.00618v1](http://arxiv.org/abs/2409.00618v1)|null|
 |**2024-08-13**|**Micro-integrated crossed-beam optical dipole trap system with long-term alignment stability for mobile atomic quantum technologies**|Marc Christ et.al.|[2408.07187v1](http://arxiv.org/abs/2408.07187v1)|null|
 |**2024-08-06**|**Two-color Ytterbium MOT in a compact dual-chamber setup**|Xin Wang et.al.|[2408.03310v1](http://arxiv.org/abs/2408.03310v1)|null|
