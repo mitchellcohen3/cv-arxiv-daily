@@ -162,6 +162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722v1](http://arxiv.org/abs/2411.10722v1)|null|
 |**2024-10-14**|**MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**|Taozhe Li et.al.|[2410.10669v1](http://arxiv.org/abs/2410.10669v1)|null|
 |**2024-09-30**|**DynORecon: Dynamic Object Reconstruction for Navigation**|Yiduo Wang et.al.|[2409.19928v1](http://arxiv.org/abs/2409.19928v1)|null|
 |**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
@@ -201,6 +202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Uncertainty Evaluation of the Caesium Fountain Primary Frequency Standard NIM6**|Fasong Zheng et.al.|[2411.11349v1](http://arxiv.org/abs/2411.11349v1)|null|
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780v1](http://arxiv.org/abs/2411.06780v1)|null|
 |**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533v1](http://arxiv.org/abs/2409.17533v1)|null|
 |**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749v1](http://arxiv.org/abs/2409.11749v1)|null|
