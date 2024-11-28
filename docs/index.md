@@ -325,7 +325,7 @@ layout: default
 |**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818v1](http://arxiv.org/abs/2407.20818v1)|null|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448v1](http://arxiv.org/abs/2407.16448v1)|**[link](https://github.com/visualaikhu/monowad)**|
 |**2024-05-30**|**Fully Test-Time Adaptation for Monocular 3D Object Detection**|Hongbin Lin et.al.|[2405.19682v1](http://arxiv.org/abs/2405.19682v1)|null|
-|**2024-05-24**|**MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method**|Pan Liao et.al.|[2405.15176v1](http://arxiv.org/abs/2405.15176v1)|null|
+|**2024-11-27**|**MonoDETRNext: Next-Generation Accurate and Efficient Monocular 3D Object Detector**|Pan Liao et.al.|[2405.15176v2](http://arxiv.org/abs/2405.15176v2)|null|
 |**2024-10-15**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696v2](http://arxiv.org/abs/2405.07696v2)|null|
 |**2024-08-26**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[2404.09431v2](http://arxiv.org/abs/2404.09431v2)|null|
 |**2024-04-08**|**MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**|Xiahan Chen et.al.|[2404.05280v1](http://arxiv.org/abs/2404.05280v1)|null|
