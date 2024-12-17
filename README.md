@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
@@ -218,6 +219,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**A Rb-Cs dual-species magneto-optical trap**|Shi-Yao Shao et.al.|[2412.11411v1](http://arxiv.org/abs/2412.11411v1)|null|
 |**2024-11-28**|**CrossTracker: Robust Multi-modal 3D Multi-Object Tracking via Cross Correction**|Lipeng Gu et.al.|[2411.18850v1](http://arxiv.org/abs/2411.18850v1)|null|
 |**2024-11-18**|**Uncertainty Evaluation of the Caesium Fountain Primary Frequency Standard NIM6**|Fasong Zheng et.al.|[2411.11349v1](http://arxiv.org/abs/2411.11349v1)|null|
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780v1](http://arxiv.org/abs/2411.06780v1)|null|
@@ -332,6 +334,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412v1](http://arxiv.org/abs/2412.11412v1)|null|
 |**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833v1](http://arxiv.org/abs/2411.16833v1)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657v1](http://arxiv.org/abs/2411.15657v1)|null|
 |**2024-11-05**|**Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**|Yifan Wang et.al.|[2411.02747v1](http://arxiv.org/abs/2411.02747v1)|**[link](https://github.com/WYFDUT/MonoASRH)**|
