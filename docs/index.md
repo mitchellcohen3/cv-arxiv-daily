@@ -273,7 +273,7 @@ layout: default
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
 |**2024-10-09**|**Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v2](http://arxiv.org/abs/2409.12518v2)|null|
 |**2024-09-02**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v2](http://arxiv.org/abs/2408.14726v2)|**[link](https://github.com/BohemianRhapsodyz/semantic_exploration)**|
-|**2024-11-29**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v4](http://arxiv.org/abs/2406.17249v4)|**[link](https://github.com/xurobotics/slide_slam)**|
+|**2024-12-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v5](http://arxiv.org/abs/2406.17249v5)|**[link](https://github.com/xurobotics/slide_slam)**|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
 |**2024-09-17**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v2](http://arxiv.org/abs/2403.12837v2)|null|
 |**2024-09-01**|**NEDS-SLAM: A Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v3](http://arxiv.org/abs/2403.11679v3)|null|
@@ -321,6 +321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**Revisiting Monocular 3D Object Detection from Scene-Level Depth Retargeting to Instance-Level Spatial Refinement**|Qiude Zhang et.al.|[2412.19165v1](http://arxiv.org/abs/2412.19165v1)|null|
 |**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412v1](http://arxiv.org/abs/2412.11412v1)|null|
 |**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833v1](http://arxiv.org/abs/2411.16833v1)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657v1](http://arxiv.org/abs/2411.15657v1)|null|
