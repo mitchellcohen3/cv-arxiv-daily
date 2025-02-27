@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|**[link](https://github.com/luigifreda/pyslam)**|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795v1](http://arxiv.org/abs/2502.09795v1)|null|
@@ -231,7 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822v1](http://arxiv.org/abs/2502.17822v1)|null|
+|**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822v2](http://arxiv.org/abs/2502.17822v2)|null|
 |**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672v1](http://arxiv.org/abs/2502.09672v1)|null|
 |**2024-12-16**|**A Rb-Cs dual-species magneto-optical trap**|Shi-Yao Shao et.al.|[2412.11411v1](http://arxiv.org/abs/2412.11411v1)|null|
 |**2024-11-28**|**CrossTracker: Robust Multi-modal 3D Multi-Object Tracking via Cross Correction**|Lipeng Gu et.al.|[2411.18850v1](http://arxiv.org/abs/2411.18850v1)|null|
