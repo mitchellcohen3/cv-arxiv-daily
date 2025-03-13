@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
-|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|null|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|**[link](https://github.com/JD-hust/gs-dso)**|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661v1](http://arxiv.org/abs/2503.01661v1)|null|
 |**2025-03-04**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274v2](http://arxiv.org/abs/2503.01274v2)|**[link](https://github.com/ziyunus/dndfilter)**|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
@@ -189,7 +189,7 @@
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## Dynamic SLAM
 
@@ -233,7 +233,7 @@
 |**2016-04-12**|**Spatiotemporal Articulated Models for Dynamic SLAM**|Suren Kumar et.al.|[1604.03526v1](http://arxiv.org/abs/1604.03526v1)|null|
 |**2014-03-09**|**Slamming of a breaking wave on a wall**|Jian-Jun Shu et.al.|[1403.2750v1](http://arxiv.org/abs/1403.2750v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## 3D Multi-Object Tracking
 
@@ -296,7 +296,7 @@
 |**2014-12-08**|**Design of a dual species atom interferometer for space**|Thilo Schuldt et.al.|[1412.2713v1](http://arxiv.org/abs/1412.2713v1)|null|
 |**2014-08-08**|**All-optical production and trapping of metastable noble gas atoms down to the single atom regime**|M. Kohler et.al.|[1408.1794v1](http://arxiv.org/abs/1408.1794v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## Object-Level SLAM and Semantic SLAM
 
@@ -307,7 +307,7 @@
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
 |**2024-11-22**|**OVO-SLAM: Open-Vocabulary Online Simultaneous Localization and Mapping**|Tomas Berriel Martins et.al.|[2411.15043v1](http://arxiv.org/abs/2411.15043v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
-|**2025-03-10**|**Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v4](http://arxiv.org/abs/2409.12518v4)|null|
+|**2025-03-10**|**Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v4](http://arxiv.org/abs/2409.12518v4)|**[link](https://github.com/LeeBY68/Hier-SLAM)**|
 |**2024-09-02**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v2](http://arxiv.org/abs/2408.14726v2)|**[link](https://github.com/BohemianRhapsodyz/semantic_exploration)**|
 |**2024-12-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v5](http://arxiv.org/abs/2406.17249v5)|**[link](https://github.com/xurobotics/slide_slam)**|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
@@ -353,7 +353,7 @@
 |**2020-07-29**|**EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association**|Yanmin Wu et.al.|[2004.12730v2](http://arxiv.org/abs/2004.12730v2)|**[link](https://github.com/yanmin-wu/EAO-SLAM)**|
 |**2020-05-04**|**Technical Report: Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback**|Vasileios Vasilopoulos et.al.|[2002.12349v3](http://arxiv.org/abs/2002.12349v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## Image-Based 3D Object Detection
 
@@ -447,7 +447,7 @@
 |**2022-06-15**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li et.al.|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
 |**2022-05-30**|**Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving**|Peixuan Li et.al.|[2205.14882v1](http://arxiv.org/abs/2205.14882v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
