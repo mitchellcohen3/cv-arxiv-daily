@@ -298,6 +298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
 |**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646v1](http://arxiv.org/abs/2503.01646v1)|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
