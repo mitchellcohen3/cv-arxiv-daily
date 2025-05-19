@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -247,7 +247,7 @@ layout: default
 |**2024-12-16**|**A Rb-Cs dual-species magneto-optical trap**|Shi-Yao Shao et.al.|[2412.11411v1](http://arxiv.org/abs/2412.11411v1)|null|
 |**2024-11-28**|**CrossTracker: Robust Multi-modal 3D Multi-Object Tracking via Cross Correction**|Lipeng Gu et.al.|[2411.18850v1](http://arxiv.org/abs/2411.18850v1)|null|
 |**2024-11-18**|**Uncertainty Evaluation of the Caesium Fountain Primary Frequency Standard NIM6**|Fasong Zheng et.al.|[2411.11349v1](http://arxiv.org/abs/2411.11349v1)|null|
-|**2025-01-25**|**SynCL: A Synergistic Training Strategy with Instance-Aware Contrastive Learning for End-to-End Multi-Camera 3D Tracking**|Shubo Lin et.al.|[2411.06780v2](http://arxiv.org/abs/2411.06780v2)|null|
+|**2025-05-16**|**SynCL: A Synergistic Training Strategy with Instance-Aware Contrastive Learning for End-to-End Multi-Camera 3D Tracking**|Shubo Lin et.al.|[2411.06780v3](http://arxiv.org/abs/2411.06780v3)|null|
 |**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533v1](http://arxiv.org/abs/2409.17533v1)|null|
 |**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749v1](http://arxiv.org/abs/2409.11749v1)|null|
 |**2025-05-14**|**One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation**|Paul Johannes Claasen et.al.|[2409.02562v3](http://arxiv.org/abs/2409.02562v3)|**[link](https://github.com/Paulkie99/imm-jhse)**|
