@@ -199,6 +199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-02-18**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228v2](http://arxiv.org/abs/2502.03228v2)|null|
 |**2025-02-14**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v2](http://arxiv.org/abs/2501.11893v2)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722v1](http://arxiv.org/abs/2411.10722v1)|**[link](https://github.com/kmk97/DGS-SLAM)**|
@@ -305,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384v1](http://arxiv.org/abs/2505.12384v1)|null|
 |**2025-05-16**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v2](http://arxiv.org/abs/2504.19409v2)|null|
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
