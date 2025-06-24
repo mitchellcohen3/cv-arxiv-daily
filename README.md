@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -206,7 +206,7 @@
 |**2022-09-05**|**Analysis of the Effect of Time Delay for Unmanned Aerial Vehicles with Applications to Vision Based Navigation**|Muhammad Ahmed Humais et.al.|[2209.01933v1](http://arxiv.org/abs/2209.01933v1)|null|
 |**2022-09-04**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567v1](http://arxiv.org/abs/2209.01567v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## Dynamic SLAM
 
@@ -251,7 +251,7 @@
 |**2016-04-12**|**Spatiotemporal Articulated Models for Dynamic SLAM**|Suren Kumar et.al.|[1604.03526v1](http://arxiv.org/abs/1604.03526v1)|null|
 |**2014-03-09**|**Slamming of a breaking wave on a wall**|Jian-Jun Shu et.al.|[1403.2750v1](http://arxiv.org/abs/1403.2750v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## 3D Multi-Object Tracking
 
@@ -317,7 +317,7 @@
 |**2014-12-08**|**Design of a dual species atom interferometer for space**|Thilo Schuldt et.al.|[1412.2713v1](http://arxiv.org/abs/1412.2713v1)|null|
 |**2014-08-08**|**All-optical production and trapping of metastable noble gas atoms down to the single atom regime**|M. Kohler et.al.|[1408.1794v1](http://arxiv.org/abs/1408.1794v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## Object-Level SLAM and Semantic SLAM
 
@@ -379,7 +379,7 @@
 |**2020-07-29**|**EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association**|Yanmin Wu et.al.|[2004.12730v2](http://arxiv.org/abs/2004.12730v2)|**[link](https://github.com/yanmin-wu/EAO-SLAM)**|
 |**2020-05-04**|**Technical Report: Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback**|Vasileios Vasilopoulos et.al.|[2002.12349v3](http://arxiv.org/abs/2002.12349v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 ## Image-Based 3D Object Detection
 
@@ -400,7 +400,7 @@
 |**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412v1](http://arxiv.org/abs/2412.11412v1)|null|
 |**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833v1](http://arxiv.org/abs/2411.16833v1)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657v1](http://arxiv.org/abs/2411.15657v1)|null|
-|**2024-11-05**|**Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**|Yifan Wang et.al.|[2411.02747v1](http://arxiv.org/abs/2411.02747v1)|**[link](https://github.com/WYFDUT/MonoASRH)**|
+|**2025-06-22**|**Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**|Yifan Wang et.al.|[2411.02747v2](http://arxiv.org/abs/2411.02747v2)|**[link](https://github.com/WYFDUT/MonoASRH)**|
 |**2025-03-12**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590v2](http://arxiv.org/abs/2410.19590v2)|**[link](https://github.com/pufanqi23/monodgp)**|
 |**2024-10-21**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758v2](http://arxiv.org/abs/2410.07758v2)|null|
 |**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637v1](http://arxiv.org/abs/2408.15637v1)|null|
@@ -480,7 +480,7 @@
 |**2022-06-15**|**Delving into the Pre-training Paradigm of Monocular 3D Object Detection**|Zhuoling Li et.al.|[2206.03657v2](http://arxiv.org/abs/2206.03657v2)|null|
 |**2022-05-30**|**Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving**|Peixuan Li et.al.|[2205.14882v1](http://arxiv.org/abs/2205.14882v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250624>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

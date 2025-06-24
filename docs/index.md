@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -385,7 +385,7 @@ layout: default
 |**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412v1](http://arxiv.org/abs/2412.11412v1)|null|
 |**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833v1](http://arxiv.org/abs/2411.16833v1)|**[link](https://github.com/UVA-Computer-Vision-Lab/ovmono3d)**|
 |**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657v1](http://arxiv.org/abs/2411.15657v1)|null|
-|**2024-11-05**|**Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**|Yifan Wang et.al.|[2411.02747v1](http://arxiv.org/abs/2411.02747v1)|**[link](https://github.com/WYFDUT/MonoASRH)**|
+|**2025-06-22**|**Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**|Yifan Wang et.al.|[2411.02747v2](http://arxiv.org/abs/2411.02747v2)|**[link](https://github.com/WYFDUT/MonoASRH)**|
 |**2025-03-12**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590v2](http://arxiv.org/abs/2410.19590v2)|**[link](https://github.com/pufanqi23/monodgp)**|
 |**2024-10-21**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758v2](http://arxiv.org/abs/2410.07758v2)|null|
 |**2024-08-28**|**Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection**|Sondos Mohamed et.al.|[2408.15637v1](http://arxiv.org/abs/2408.15637v1)|null|
