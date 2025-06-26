@@ -24,7 +24,7 @@
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013v1](http://arxiv.org/abs/2506.07013v1)|null|
-|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359v2](http://arxiv.org/abs/2506.04359v2)|null|
+|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359v2](http://arxiv.org/abs/2506.04359v2)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
 |**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337v2](http://arxiv.org/abs/2505.12337v2)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
