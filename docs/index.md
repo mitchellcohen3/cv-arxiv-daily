@@ -372,6 +372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393v1](http://arxiv.org/abs/2507.02393v1)|null|
 |**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835v1](http://arxiv.org/abs/2506.14835v1)|null|
 |**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|
 |**2025-05-30**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v4](http://arxiv.org/abs/2505.04594v4)|null|
