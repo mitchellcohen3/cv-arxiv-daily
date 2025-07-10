@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -318,7 +318,7 @@ layout: default
 |**2025-05-16**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v2](http://arxiv.org/abs/2504.19409v2)|null|
 |**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Yuchen Zhang et.al.|[2504.01997v1](http://arxiv.org/abs/2504.01997v1)|null|
 |**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646v1](http://arxiv.org/abs/2503.01646v1)|null|
-|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
+|**2025-07-09**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v2](http://arxiv.org/abs/2502.14931v2)|null|
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
 |**2024-11-22**|**OVO-SLAM: Open-Vocabulary Online Simultaneous Localization and Mapping**|Tomas Berriel Martins et.al.|[2411.15043v1](http://arxiv.org/abs/2411.15043v1)|null|
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
